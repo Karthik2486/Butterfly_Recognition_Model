@@ -3,7 +3,6 @@
 The datset for this project is taken from - [Butterfly Image Classification](https://www.kaggle.com/gpiosenka/butterfly-images40-species). <br>
 The test accuracy recieved was **96.70%**
 
-Live link for the web app - [Butterfly Recognition](https://share.streamlit.io/hrushi11/butterfly_recognition/main/app.py)
 
 Train, Test. Validation data set for 50 butterfly species. All images are 224 X 224 X 3 in jpg format .
 Train set consists of 4955 images partitioned into 50 sub directories one for each species.
