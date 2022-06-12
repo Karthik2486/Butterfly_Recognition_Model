@@ -20,7 +20,7 @@ The model classifies for the given classes - 'adonis','american snoot','an 88','
 'red admiral','red spotted purple','scarce swallow','silver spot skipper','sixspot burnet','skipper','sootywing','southern dogface','straited queen',
 'two barred flasher','ulyses','viceroy','wood satyr','yellow swallow tail','zebra long wing'.
 
-Model 2 is the best model and is the one used in the app.
+Model 2 is the best model.
 
 **Random images from the dataset :**
 
